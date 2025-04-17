@@ -1,0 +1,14 @@
+# Banco de dados
+pymongo
+
+# Configuração
+python-dotenv
+
+# API e HTTP
+requests
+
+# Web Framework
+flask
+
+# Análise de Dados
+pandas==2.2.1
